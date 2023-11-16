@@ -1,3 +1,7 @@
+MOCK_DATA.json
+*.docx
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
